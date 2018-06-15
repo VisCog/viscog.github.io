@@ -10,5 +10,4 @@ viscog:
   contact_url: http://courses.washington.edu/viscog/contact.html
 github:
   repository_url: https://github.com/VisCog
-gems:
-  - jekyll-font-awesome-sass
+  

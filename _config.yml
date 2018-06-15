@@ -1,5 +1,14 @@
-title: Leap Day theme
-description: Leap Day is a theme for GitHub Pages.
-show_downloads: true
+title: Vision+Cognition Group
+description: The VisCog Group at the University of Washington is headed by Geoffrey Boynton, Ione Fine, and Scott Murray.
 google_analytics:
 theme: jekyll-theme-leap-day
+viscog:
+  lab_url: http://courses.washington.edu/viscog
+  people_url: http://courses.washington.edu/viscog/people.html
+  research_url: http://courses.washington.edu/viscog/research.html
+  publications_url: http://courses.washington.edu/viscog/publications.html
+  contact_url: http://courses.washington.edu/viscog/contact.html
+github:
+  repository_url: https://github.com/VisCog
+gems:
+  - jekyll-font-awesome-sass

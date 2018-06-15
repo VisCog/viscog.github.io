@@ -24,8 +24,21 @@
       <div id="banner">
         <span id="logo"></span>
 
-        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
-        {% if site.show_downloads %}
+        <div class="fork" style="margin-top:0; padding:0; background:none">
+          <ul>
+            <li><a href="{{ site.viscog.lab_url }}" class="button"><strong>Lab Website</strong></a></li>
+            <li><a href="{{ site.viscog.people_url }}" class="button"><strong>People</strong></a></li>
+            <li><a href="{{ site.viscog.research_url }}" class="button"><strong>Research</strong></a></li>
+            <li><a href="{{ site.viscog.publications_url }}" class="button"><strong>Publications</strong></a></li>
+            <li><a href="{{ site.viscog.contact_url }}" class="button"><strong>Contact</strong></a></li>
+          </ul>
+        </div>
+        <div class="downloads">
+          <ul>
+            <li><a href="{{ site.github.repository_url }}" class="button"><strong>GitHub Profile</strong></a></li>
+          </ul>
+        </div>
+<!--         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
             <ul>
@@ -34,7 +47,7 @@
             </ul>
           </div>
         {% endif %}
-      </div><!-- end banner -->
+ -->      </div><!-- end banner -->
 
     <div class="wrapper">
       <nav>

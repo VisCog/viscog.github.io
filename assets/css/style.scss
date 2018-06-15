@@ -2,3 +2,53 @@
 ---
 
 @import 'jekyll-theme-leap-day';
+$fa-font-path: "../fonts/font-awesome/";
+@import 'font-awesome';
+
+section > p {
+  text-align: justify;
+}
+
+section img.project {
+  width: 200px;
+  z-index: 100;
+  background: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  border-radius: 3px;
+  padding: 7px;
+}
+
+section .button {
+	border: 1px solid #ccc;
+    background: linear-gradient(#eee, #ccc);
+    border-radius: 2px;
+    box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
+    background-color: #ccc;
+    padding: 6px 8px;
+    line-height: 12px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+    display: inline-block;
+    text-align: center;
+}
+
+section .button:hover {
+	background: linear-gradient(#fff, #ddd);
+	background-color: #ddd;	
+}
+
+section .float-left {
+	float: left;
+	margin-right: 10px;
+}
+
+section .float-right {
+	float: right;
+	margin-left: 10px;
+}
+
+section i {
+	margin-right: 2px;
+}

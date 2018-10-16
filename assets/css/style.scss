@@ -3,6 +3,39 @@
 
 @import 'jekyll-theme-leap-day';
 
+/* UW color scheme */
+header {
+  header h1 {
+    color: #fff;
+    text-shadow: 0px 2px 0px #4b2e83;
+  }
+  background: #4b2e83;
+  background: url(../images/uwlogo.png) no-repeat;
+  background-position: right;
+  background-size: auto 80%;
+}
+/*td {
+  border-right: 1px solid #85754d;
+}
+td:first-child {
+  border-left: 1px solid #85754d;
+}
+blockquote {
+  border-left: 1px solid #85754d;
+}*/
+#banner {
+  background: #b7a57a;
+  border: 1px solid #85754d;
+}
+#banner .button {
+  border: 1px solid #959595;
+  background: linear-gradient(#b7b7b7, #d9d9d9);
+}
+#banner .button:hover {
+  background: linear-gradient(#d9d9d9, #fafafa);
+  background-color: #959595;
+}
+
 section > p {
   text-align: justify;
 }

@@ -2,13 +2,6 @@
 layout: default
 ---
 
-#Open-source code is essential for reproducible science,
-#and we are committed to documenting and distributing all the software
-#that we develop for our research. \\
-#Each of the projects below represents the ideas and code of many collaborators.
-
-
-
 # UW Toolbox
 
 ### A Matlab toolbox for vision research

@@ -2,10 +2,10 @@
 layout: default
 ---
 
-Open-source code is essential for reproducible science,
-and we are committed to documenting and distributing all the software
-that we develop for our research. \\
-Each of the projects below represents the ideas and code of many collaborators.
+#Open-source code is essential for reproducible science,
+#and we are committed to documenting and distributing all the software
+#that we develop for our research. \\
+#Each of the projects below represents the ideas and code of many collaborators.
 
 
 
@@ -14,7 +14,9 @@ Each of the projects below represents the ideas and code of many collaborators.
 ### A Matlab toolbox for vision research
 
 <img src="assets/images/uwtoolbox.png" class="project float-left"/>
-The UW toolbox is a suite of Matlab functions used in vision research. \\
+The UW toolbox is a suite of Matlab functions used in vision research,
+created by Geoff Boynton and Ione Fine, 
+and maintained by Kelly Chang. \\
 <a href="https://github.com/VisCog/UWToolbox" class="button">
   GitHub repo
 </a>

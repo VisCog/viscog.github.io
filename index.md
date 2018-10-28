@@ -48,7 +48,27 @@ across a wide range of implant configurations.\\
 
 # Publications
 
-### Shen et al. (2018): Women in High-Profile Journals
+### Beyeler et al. (2018): A model of ganglion axon pathways accounts for percepts elicited by retinal implants
+
+<img src="assets/images/argus-shapes.jpg" class="project float-left"/>
+Current retinal implant users report seeing distorted and often elongated shapes 
+rather than small focal spots of light that match the shape of the implant electrodes. \\
+Here we show that the perceptual experience of retinal implant users can be accurately predicted 
+using a computational model that simulates each individual patient's retinal ganglion axon pathways. \\
+This opens up the possibility for future devices that incorporate stimulation strategies 
+tailored to each individual patient’s retina. \\
+<a href="https://doi.org/10.1101/453035" class="button">
+  Preprint
+</a>
+<a href="https://www.github.com/VisCog/ArgusShapes" class="button">
+  Code
+</a>
+
+<br clear="both"/>
+
+
+
+### Shen et al. (2018): Women in high-profile journals
 
 <img src="assets/images/womeninscience.jpg" class="project float-left"/>
 Our analysis of primary research papers in

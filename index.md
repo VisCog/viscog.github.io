@@ -48,7 +48,7 @@ across a wide range of implant configurations.\\
 
 # Publications
 
-### Beyeler et al. (2018): A model of ganglion axon pathways accounts for percepts elicited by retinal implants
+### Beyeler et al. (2019): A model of ganglion axon pathways accounts for percepts elicited by retinal implants
 
 <img src="assets/images/argus-shapes.jpg" class="project float-left"/>
 Current retinal implant users report seeing distorted and often elongated shapes 
@@ -56,7 +56,10 @@ rather than small focal spots of light that match the shape of the implant elect
 Here we show that the perceptual experience of retinal implant users can be accurately predicted 
 using a computational model that simulates each individual patient's retinal ganglion axon pathways. \\
 This opens up the possibility for future devices that incorporate stimulation strategies 
-tailored to each individual patient’s retina. \\
+tailored to each individiual patient’s retina. \\
+<a href="http://doi.org/10.1038/s41598-019-45416-4" class="button">
+  Beyeler et al. (2019)
+</a>
 <a href="https://doi.org/10.1101/453035" class="button">
   Preprint
 </a>
